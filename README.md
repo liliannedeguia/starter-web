@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+## Deployment
+
+This is where we deploy our works
+
